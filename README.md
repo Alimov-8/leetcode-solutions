@@ -1,4 +1,4 @@
-# LeetCode-Solutions 💡
+# LeetCode-Solutions 💡 https://leetcode.com/Alimov_8/
 ## Python 3
 ### In this Repository I would like to share my solutions to the LeetCode questions.
 
