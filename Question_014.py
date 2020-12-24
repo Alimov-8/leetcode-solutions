@@ -29,3 +29,17 @@ class Solution:
 
         
         return finalAnswer
+    
+    
+    
+    # Another solution but idea same (shortest version of my algorithm)
+    '''class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
+        if not strs: # constraint includes len(strs)==0
+            return ''
+        shortest = min(strs,key=len)
+        for i,c in enumerate(shortest):
+            for words in strs:
+                if words[i]!=c:
+                    return shortest[:i] # upto but not including mismatched ith character
+        return shortest'''
