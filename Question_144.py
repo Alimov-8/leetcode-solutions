@@ -7,10 +7,10 @@
 class Solution:
     def preorderTraversal(self, root: TreeNode) -> List[int]:
         
-        def traverse_in_preorder(node):
+        def traverse_pre_order(node):
             if node is None: 
                 return []
-            return([node.val] + traverse_in_preorder(node.left) +  
-                   traverse_in_preorder(node.right))
+            return([node.val] + traverse_pre_order(node.left) +  
+                   traverse_pre_order(node.right))
                    
-        return traverse_in_preorder(root)
+        return traverse_pre_order(root)
