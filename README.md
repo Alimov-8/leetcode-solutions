@@ -7,7 +7,7 @@ I will provide comments to each code for being more understandable to read code 
 - After participating in Asia to Japan (Coding contest) 2020 🏆🎟 , I understood that I need to make more practise in LeetCode :)
 I can recommend you too, if you wanna solve with me in a team (direct me via telegram)
 
-  #12WeekLeetCode_Challenge:
+  #12WeekLeetCode_Challenge: :mortar_board::mega:
 1. Binary Search and Complexity Analysis
 2. Binary Search Trees, Traversals and Balancing
 3. Python Classes and Linked Lists
