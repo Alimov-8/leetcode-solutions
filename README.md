@@ -1,13 +1,20 @@
 # LeetCode-Solutions 💡 https://leetcode.com/Alimov_8/
-## Python 3
+## Python 3 | [LeetCode Study Plan](https://leetcode.com/study-plan/)
 ### In this Repository I would like to share my solutions to the LeetCode questions.
 
-I will provide comments to each code for being more understandable to read code 💬
 
-- After participating in Asia to Japan (Coding contest) 2020 🏆🎟 , I understood that I need to make more practise in LeetCode :)
-I can recommend you too, if you wanna solve with me in a team (direct me via telegram)
 
-  #12WeekLeetCode_Challenge: :mortar_board::mega:
+I will try to provide comments to each code or make code more clear for being more understandable to read code 💬
+
+### Participated and Certified:
+- Google Hash Code 2021 🏆🎟 [link soon](#)
+- Google Code Jam 2021  🏆🎟 [link](https://drive.google.com/file/d/1CQHxDgIdExqhrLHG0HI4plbtVAyVzDgj/view?usp=sharing)
+- Google Kick Start 2021 🏆🎟 [link soon](#)
+- Asia to Japan (Coding contest) 2020 🏆🎟 [link soon](#)
+
+<br>
+
+ ### 12 WeekLeetCode_Challenge: :mortar_board::mega:
 1. Binary Search and Complexity Analysis
 2. Binary Search Trees, Traversals and Balancing
 3. Python Classes and Linked Lists
