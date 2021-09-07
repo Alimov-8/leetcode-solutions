@@ -1,0 +1,25 @@
+# The isBadVersion API is already defined for you.
+# @param version, an integer
+# @return an integer
+# def isBadVersion(version):
+
+class Solution:
+    def firstBadVersion(self, n):
+        # list have 1 element 
+        nums = range(1, n+1)
+        if len(nums) == 1:
+            return 1
+        
+        lo, hi = 0, len(nums) - 1
+        m = int((hi+lo)/2)
+        
+        while(lo<hi):
+            if isBadVersion(nums[m]) == False:
+                lo = m + 1
+                m = int((hi+lo)/2)
+            else:
+                hi = m
+                m = int((hi+lo)/2)
+        return m + 1
+            
+        
