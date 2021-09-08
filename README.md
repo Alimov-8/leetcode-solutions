@@ -7,10 +7,10 @@
 I will try to provide comments to each code or make code more clear for being more understandable to read code 💬
 
 ### Participated and Certified:
-- Google Hash Code 2021 🏆🎟 [link soon](#)
+- Google Hash Code 2021 🏆🎟 [link](https://drive.google.com/file/d/1U_rj13vygZNI6DywTjhBmshzNBcgZzh1/view?usp=sharing)
 - Google Code Jam 2021  🏆🎟 [link](https://drive.google.com/file/d/1CQHxDgIdExqhrLHG0HI4plbtVAyVzDgj/view?usp=sharing)
-- Google Kick Start 2021 🏆🎟 [link soon](#)
-- Asia to Japan (Coding contest) 2020 🏆🎟 [link soon](#)
+- Google Kick Start 2021 🏆🎟 link soon
+- Asia to Japan (Coding contest) 2020 🏆🎟 [link](https://drive.google.com/file/d/1Xymb6D0q4oemFzJI1jEWy8ASCLQzRV9Y/view?usp=sharing)
 
 <br>
 
