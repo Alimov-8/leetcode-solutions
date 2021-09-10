@@ -6,3 +6,18 @@ class Solution:
         for i in range(len(s_lst)):
             s_lst[i] = s_lst[i][::-1]
         return ' '.join(s_lst)
+        
+    
+# 2nd Solution with Two pointers
+class Solution:
+    def reverseWords(self, s: str) -> str:
+        res = str()
+        left = right = 0
+        while (left < len(s)):
+            while(right < len(s) and s[right] != ' '):
+                right += 1
+            res += s[left:right][::-1]
+            if right != len(s):
+                res += " "
+            left = right = right + 1
+        return(res)
