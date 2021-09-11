@@ -1,0 +1,15 @@
+# 1st Solution using two pointers [1,2,3,4,5,6,7,8,9,10]
+# [1,2,3,4,5,6,7,8,9,10]  -  1/2, 2/4, 3/6, 4/8, 5/10  -  left+=1, right+=2
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def middleNode(self, head: ListNode) -> ListNode:
+        left = right = head
+        while right and right.next:
+            left = left.next
+            right = right.next.next
+        return left
