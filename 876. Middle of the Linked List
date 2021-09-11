@@ -13,3 +13,16 @@ class Solution:
             left = left.next
             right = right.next.next
         return left
+        
+        
+ # 2nd Solution - Output to Array
+ class Solution:
+    def middleNode(self, head: ListNode) -> ListNode:
+        arr = [head]
+        while arr[-1].next:
+            arr.append(arr[-1].next)
+        return arr[len(arr) // 2]
+        
+        
+ 
+# I used LeetCode solution to learn how to solve these type of questions
