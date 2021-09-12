@@ -1,0 +1,48 @@
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+        # Length of LinkedList
+        length = 0
+        current = head
+        while(current != None):
+            current = current.next
+            length+=1
+
+        # Delete [1] -> []
+        if length == 1:
+            head = head.next
+            return head
+        
+        # Delete last node
+        if n == 1:
+            current = head
+            while(current.next.next):
+                current = current.next
+            current.next = None
+            return head
+        
+        # Delete middle node
+        n_start = length - n
+        mid = head
+        left, right = None, head.next
+        
+        while(right):
+            if n_start == 0:
+                # Delete first node
+                if left == None:
+                    head = head.next
+                    return head
+                
+                left.next = right
+                return head
+            
+            left = mid
+            mid = mid.next
+            right = mid.next
+            n_start-=1
+        
+            
