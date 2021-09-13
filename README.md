@@ -1,5 +1,4 @@
 # LeetCode-Solutions 💡 https://leetcode.com/Alimov_8/
-## Python 3 | [LeetCode Study Plan](https://leetcode.com/study-plan/)
 ### In this Repository I would like to share my solutions to the LeetCode questions.
 
 
@@ -28,7 +27,7 @@ I will try to provide comments to each code or make code more clear for being mo
 11. Disjoint Sets and the Union Find Algorithm (coming soon)
 12. Interview Questions, Tips & Practical Advice (coming soon) -->
 
-# LeetCode Study Plan | Algorithm I 
+# Python 3 | [LeetCode Study Plan](https://leetcode.com/study-plan/) | Algorithm I 
 #### #Day 1 | Binary Search
 Array, Binery Search, Interactive - 704, 278, 35
 
