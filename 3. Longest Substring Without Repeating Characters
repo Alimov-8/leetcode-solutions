@@ -1,0 +1,21 @@
+# 1st Solution using python list and Sliding Window algorithm
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        if s == None or len(s) == 0:
+            return 0
+        
+        left = right = res = 0
+        lst = list()
+        
+        while(right < len(s)):
+            char = s[right]
+            
+            while(char in lst):
+                lst.pop(0)
+                left += 1
+            
+            lst.append(char)
+            res = max(res, right-left+1)
+            right += 1
+            
+        return res
