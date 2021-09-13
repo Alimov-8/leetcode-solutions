@@ -13,7 +13,7 @@ I will try to provide comments to each code or make code more clear for being mo
 - Asia to Japan (Coding contest) 2020 🏆🎟 [link](https://drive.google.com/file/d/1Xymb6D0q4oemFzJI1jEWy8ASCLQzRV9Y/view?usp=sharing)
 
 <br>
-
+<!-- 
  ### 12 WeekLeetCode_Challenge: :mortar_board::mega:
 1. Binary Search and Complexity Analysis
 2. Binary Search Trees, Traversals and Balancing
@@ -26,7 +26,23 @@ I will try to provide comments to each code or make code more clear for being mo
 9. Graphs, Breadth-First Search and Depth-First Search (coming soon)
 10. Shortest Paths, Spanning Trees & Topological Sorting (coming soon)
 11. Disjoint Sets and the Union Find Algorithm (coming soon)
-12. Interview Questions, Tips & Practical Advice (coming soon)
+12. Interview Questions, Tips & Practical Advice (coming soon) -->
 
+# LeetCode Study Plan | Algorithm I 
+#### #Day 1 | Binary Search
+Array, Binery Search, Interactive - 704, 278, 35
 
+#### #Day 2 | Squares of a Sorted Array
+Array, Two Pointers, Sorting, Math - 977, 189
 
+#### #Day 3 | Move Zeros
+Array, Two Pointers, Binary Search - 283, 167
+
+#### #Day 4 | Reverse String
+Two Pointers, String, Recursion - 344, 557
+
+#### #Day 5 | Middle of Linked List
+Linked List, Two Pointers - 876, 19
+
+#### #Day 6 | Longest Substring Without Repeating Characters
+HashTable, Sliding Window, String, Two Pointers - 3, 567
