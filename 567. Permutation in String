@@ -1,0 +1,28 @@
+# Solution using Sliding Window, Two Pointers, Dictionary and HashTable
+class Solution:
+    def checkInclusion(self, s1: str, s2: str) -> bool:
+        s1_len = len(s1)
+        s1_dict = dict()
+        for i in s1:
+            try:
+                s1_dict[i] += 1
+            except KeyError:
+                s1_dict[i] = 1
+        
+        window_counter = Counter()
+        
+        for i, v in enumerate(s2):
+            window_counter[v] += 1
+            
+            if i >= s1_len:
+                left = s2[i-s1_len]
+                if window_counter[left] == 1:
+                    del window_counter[left]
+                else:
+                    window_counter[s2[i-s1_len]] -= 1
+            
+            if window_counter == s1_dict:
+                return True
+            
+        return False
+            
