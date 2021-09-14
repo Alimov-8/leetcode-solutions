@@ -31,17 +31,20 @@ I will try to provide comments to each code or make code more clear for being mo
 #### #Day 1 | Binary Search
 Array, Binery Search, Interactive - 704, 278, 35
 
-#### #Day 2 | Squares of a Sorted Array
+#### #Day 2 | Two Pointers
 Array, Two Pointers, Sorting, Math - 977, 189
 
-#### #Day 3 | Move Zeros
+#### #Day 3 | Two Pointers
 Array, Two Pointers, Binary Search - 283, 167
 
-#### #Day 4 | Reverse String
+#### #Day 4 | Two Pointers
 Two Pointers, String, Recursion - 344, 557
 
-#### #Day 5 | Middle of Linked List
+#### #Day 5 | Two Pointers
 Linked List, Two Pointers - 876, 19
 
-#### #Day 6 | Longest Substring Without Repeating Characters
+#### #Day 6 | Sliding Window
 HashTable, Sliding Window, String, Two Pointers - 3, 567
+
+#### #Day 7 | Breadth-First Search / Depth-First Search
+Tree, Matrix, Breadth-First Search, Depth-First Search - 733, 695
