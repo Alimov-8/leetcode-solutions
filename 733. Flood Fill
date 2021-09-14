@@ -1,0 +1,23 @@
+# Depth-First Search Solution
+class Solution:
+    def floodFill(self, image: List[List[int]], sr: int, sc: int, newColor: int) -> List[List[int]]:
+        color = image[sr][sc]
+        if (color == newColor):
+            return image
+        
+        m = len(image)
+        n = len(image[0])
+        
+        def depth_first_search(row, col):
+            if image[row][col] == color:
+                image[row][col] = newColor
+                
+                if (row >= 1): depth_first_search(row-1, col)
+                if (col >= 1): depth_first_search(row, col-1)
+                if (row+1 < m): depth_first_search(row+1, col)
+                if (col+1 < n): depth_first_search(row, col+1)    
+                
+        depth_first_search(sr, sc)
+        return image
+        
+        
