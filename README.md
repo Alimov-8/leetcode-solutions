@@ -50,4 +50,7 @@ HashTable, Sliding Window, String, Two Pointers - 3, 567
 Tree, Matrix, Breadth-First Search, Depth-First Search - 733, 695
 
 #### #Day 8 | Breadth-First Search / Depth-First Search
-Tree, Binary Tree, Breadth-First Search, Depth-First Search - 617, 116
+Tree, Binary Tree, Breadth-First Search, Depth-First Search - 617, 116, 117
+
+#### #Day 9 | Breadth-First Search / Depth-First Search
+Array, Matrix, Dynamic Programming, Breadth-First Search, Depth-First Search - 542, 994
