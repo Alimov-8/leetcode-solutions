@@ -54,3 +54,7 @@ Tree, Binary Tree, Breadth-First Search, Depth-First Search - 617, 116, 117
 
 #### #Day 9 | Breadth-First Search / Depth-First Search
 Array, Matrix, Dynamic Programming, Breadth-First Search, Depth-First Search - 542, 994
+
+# Data Structure 1
+#### #Day 1 | Array 
+Array, Sliding Window, Dictinary, Set - 217, 53
