@@ -4,4 +4,7 @@
 Array, Sliding Window, Dictinary, Set - 217, 53
 
 #### #Day 2 | Array 
-Array, Sliding Window, Dictinary, Set - 1, 88
+Array, Sliding Window, Dictinary, Set - 1, (88)
+
+#### #Day 3 | Array 
+Array, Sliding Window, Dictinary, Set - 350, 121
