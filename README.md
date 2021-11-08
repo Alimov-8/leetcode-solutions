@@ -11,4 +11,9 @@ I will try to provide comments to each code or make code more clear for being mo
 - Google Kick Start 2021 🏆🎟 link soon
 - Asia to Japan (Coding contest) 2020 🏆🎟 [link](https://drive.google.com/file/d/1Xymb6D0q4oemFzJI1jEWy8ASCLQzRV9Y/view?usp=sharing)
 
+</br>
+
+## Leetcode Study Plan
+1. [Data Structure 1](https://github.com/Alimov-8/leetcode-solutions/tree/master/Data%20Structure%201#leetcode-study-plan---data-structures-1)
+
 
