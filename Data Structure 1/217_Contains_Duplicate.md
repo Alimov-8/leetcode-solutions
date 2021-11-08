@@ -1,0 +1,31 @@
+# Leetcode 217 Contains Duplication
+
+There can be multiple solutions like:
+- Brute-Force approach using nested loop - `O(n^2)`
+- Sorting and Comparing - `O(n*logn)`
+- Dictionary - `O(n)`
+## Using Exception Handling and Dictionary O(n)
+```py
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+        a = {}
+        for i in nums:
+            try:
+                a[i] += 1
+                return True
+            except: 
+                a[i] = 1
+        return False
+```
+
+## Using Dictionary O(n)
+```py
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+        a = {}
+        for i in nums:
+            if i in a.keys():
+                return True
+            a[i] = 1
+        return False
+```
