@@ -7,3 +7,5 @@ Array
 - [88. Merge Sorted Array - Two Pointers, Compersion Sorting](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/88.%20Merge%20Sorted%20Array.md#leetcode-88-merge-sorted-array)
 - [217. Contains Duplication - Dictionary](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/217.%20Contains%20Duplicate.md#leetcode-217-contains-duplication)
 
+- [350. Intersection of Two Arrays II - Dictionary, Loops](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/217.%20Contains%20Duplicate.md#leetcode-350-intersection-of-two-array-ii)
+
