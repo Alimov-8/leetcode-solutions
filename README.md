@@ -2,8 +2,7 @@
 ####  https://leetcode.com/Alimov_8/
 
 #### Introduction
-In this repository I would like to share my solutions to the leetcode questions.
-I will try to provide comments to each code or make code more clear for being more understandable to read code 💬
+In this repository I would like to share my solutions to leetcode questions with comments 💬
 
 #### Participated and Certified:
 - Google Hash Code 2021 🏆🎟 [link](https://drive.google.com/file/d/1U_rj13vygZNI6DywTjhBmshzNBcgZzh1/view?usp=sharing)
