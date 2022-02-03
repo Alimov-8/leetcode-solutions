@@ -18,7 +18,7 @@ Array
 
 - [350. Intersection of Two Arrays II - Dictionary, Loops](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/217.%20Contains%20Duplicate.md#leetcode-350-intersection-of-two-array-ii)
 
-- [387. First Unique Character in a String](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+- [387. First Unique Character in a String](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/387.%20First%20Unique%20Character%20in%20a%20String.md#leetcode-387-first-unique-character-in-a-string)
 
 - [566. Reshape Matrix](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/566.%20Reshape%20Matrix.md#leetcode-566-reshape-matrix)
 
