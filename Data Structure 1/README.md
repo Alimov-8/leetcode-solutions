@@ -14,6 +14,8 @@ Array
 
 - [121. Best Time to Buy and Sell Stock](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md#leetcode-121-best-time-to-buy-and-sell-stock)
 
+- [206. Reverse the LinkedList - Recursion](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+
 - [217. Contains Duplication - Dictionary](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/217.%20Contains%20Duplicate.md#leetcode-217-contains-duplication)
 
 - [350. Intersection of Two Arrays II - Dictionary, Loops](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/217.%20Contains%20Duplicate.md#leetcode-350-intersection-of-two-array-ii)
