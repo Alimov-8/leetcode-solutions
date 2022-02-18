@@ -8,6 +8,8 @@ Array
 
 - [53. Max Sub Array - Kadane's Algorithm](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/53.%20Maximum%20Subarray.md#leetcode-53-max-sub-array)
 
+- [83. Remove Duplicates from Sorted List - Recursion](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+
 - [88. Merge Sorted Array - Two Pointers, Compersion Sorting](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/88.%20Merge%20Sorted%20Array.md#leetcode-88-merge-sorted-array)
 
 - [118. Pascal's Triangle](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/118.%20Pascal's%20Triangle.md#leetcode-118-pascals-triangle)
