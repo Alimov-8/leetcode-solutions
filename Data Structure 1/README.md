@@ -8,7 +8,7 @@
 
 - [53. Max Sub Array - Kadane's Algorithm](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/53.%20Maximum%20Subarray.md#leetcode-53-max-sub-array)
 
-- [83. Remove Duplicates from Sorted List - Recursion](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+- [83. Remove Duplicates from Sorted List - Recursion](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/203.%20Remove%20Linked%20List%20Elements.md#203-remove-linked-list-elements)
 
 - [88. Merge Sorted Array - Two Pointers, Compersion Sorting](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/88.%20Merge%20Sorted%20Array.md#leetcode-88-merge-sorted-array)
 
@@ -16,10 +16,11 @@
 
 - [121. Best Time to Buy and Sell Stock](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md#leetcode-121-best-time-to-buy-and-sell-stock)
 
-- [141. Linked List Cycle - Hashmap, Loop](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+- [141. Linked List Cycle - Hashmap, Loop](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/203.%20Remove%20Linked%20List%20Elements.md#203-remove-linked-list-elements)
 
+- [203. Remove element from LinkedList - Recursion](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/203.%20Remove%20Linked%20List%20Elements.md#203-remove-linked-list-elements)
 
-- [206. Reverse the LinkedList - Recursion](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+- [206. Reverse the LinkedList - Recursion](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/203.%20Remove%20Linked%20List%20Elements.md#203-remove-linked-list-elements)
 
 - [217. Contains Duplication - Dictionary](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/217.%20Contains%20Duplicate.md#leetcode-217-contains-duplication)
 
