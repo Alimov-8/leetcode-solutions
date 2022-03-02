@@ -4,15 +4,15 @@
 
 - [1. Two Sum - Brute Force and Dictionary](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/1.%20Two%20Sum.md#leetcode-1-two-sum)
 
-- [20. Valid Parentheses - Stack](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+- [20. Valid Parentheses - Stack](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/20.%20Valid%20Parentheses.md#leetcode-20-valid-parentheses)
 
-- [21. Merge Two Sorted Lists - Array](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+- [21. Merge Two Sorted Lists - Linked List](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/21.%20Merge%20Two%20Sorted%20Lists.md#leetcode-21-merge-two-sorted-lists)
 
 - [36. Valid Sudoku - Array](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/36.%20Valid%20Sudoku.md#list-comprehensions-sets-count)
 
 - [53. Max Sub Array - Kadane's Algorithm](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/53.%20Maximum%20Subarray.md#leetcode-53-max-sub-array)
 
-- [74. Search a 2D matrix - Array](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+- [74. Search a 2D matrix - Array](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/21.%20Merge%20Two%20Sorted%20Lists.md#leetcode-21-merge-two-sorted-lists)
 
 - [83. Remove Duplicates from Sorted List - Recursion](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/203.%20Remove%20Linked%20List%20Elements.md#203-remove-linked-list-elements)
 
@@ -30,7 +30,7 @@
 
 - [217. Contains Duplication - Dictionary](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/217.%20Contains%20Duplicate.md#leetcode-217-contains-duplication)
 
-- [232. Implement Queue - Stack](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+- [232. Implement Queue - Stack](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/232.%20Implement%20Queue%20using%20Stacks.md#leetcode-232-implement-queue-using-stacks)
 
 - [350. Intersection of Two Arrays II - Dictionary, Loops](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/217.%20Contains%20Duplicate.md#leetcode-350-intersection-of-two-array-ii)
 
