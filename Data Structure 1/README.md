@@ -18,11 +18,17 @@
 
 - [88. Merge Sorted Array - Two Pointers, Compersion Sorting](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/88.%20Merge%20Sorted%20Array.md#leetcode-88-merge-sorted-array)
 
+- [94. Binary Tree Inorder Traversal - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+
 - [118. Pascal's Triangle - Array](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/118.%20Pascal's%20Triangle.md#leetcode-118-pascals-triangle)
 
 - [121. Best Time to Buy and Sell Stock](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md#leetcode-121-best-time-to-buy-and-sell-stock)
 
 - [141. Linked List Cycle - Hashmap, Loop](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/203.%20Remove%20Linked%20List%20Elements.md#203-remove-linked-list-elements)
+
+- [144. Binary Tree Preorder Traversal - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+
+- [145. Binary Tree Postorder Traversal - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
 
 - [203. Remove element from LinkedList - Recursion](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/203.%20Remove%20Linked%20List%20Elements.md#203-remove-linked-list-elements)
 
