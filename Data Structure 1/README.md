@@ -20,6 +20,8 @@
 
 - [94. Binary Tree Inorder Traversal - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
 
+- [102. Binary Tree Level Order Traversal - Tree ](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+
 - [118. Pascal's Triangle - Array](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/118.%20Pascal's%20Triangle.md#leetcode-118-pascals-triangle)
 
 - [121. Best Time to Buy and Sell Stock](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md#leetcode-121-best-time-to-buy-and-sell-stock)
