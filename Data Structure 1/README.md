@@ -18,11 +18,11 @@
 
 - [88. Merge Sorted Array - Two Pointers, Compersion Sorting](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/88.%20Merge%20Sorted%20Array.md#leetcode-88-merge-sorted-array)
 
-- [94. Binary Tree Inorder Traversal - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+- [94. Binary Tree Inorder Traversal - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/94.%20Binary%20Tree%20Inorder%20Traversal.md#leetcode-94-binary-tree-inorder-traversal)
 
-- [102. Binary Tree Level Order Traversal - Tree ](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+- [102. Binary Tree Level Order Traversal - Tree ](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/102.%20Binary%20Tree%20Level%20Order%20Traversal.md#102-binary-tree-level-order-traversal)
 
-- [104. Maximum Depth of Binary Tree - Tree ](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+- [104. Maximum Depth of Binary Tree - Tree ](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/104.%20Maximum%20Depth%20of%20Binary%20Tree.md#104-maximum-depth-of-binary-tree)
 
 - [118. Pascal's Triangle - Array](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/118.%20Pascal's%20Triangle.md#leetcode-118-pascals-triangle)
 
@@ -30,9 +30,9 @@
 
 - [141. Linked List Cycle - Hashmap, Loop](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/203.%20Remove%20Linked%20List%20Elements.md#203-remove-linked-list-elements)
 
-- [144. Binary Tree Preorder Traversal - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+- [144. Binary Tree Preorder Traversal - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/144.%20Binary%20Tree%20Preorder%20Traversal.md#leetcode-144-binary-tree-preorder-traversal)
 
-- [145. Binary Tree Postorder Traversal - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+- [145. Binary Tree Postorder Traversal - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/145.%20Binary%20Tree%20Postorder%20Traversal.md#leetcode-145-binary-tree-postorder-traversal)
 
 - [203. Remove element from LinkedList - Recursion](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/203.%20Remove%20Linked%20List%20Elements.md#203-remove-linked-list-elements)
 
