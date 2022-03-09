@@ -20,6 +20,8 @@
 
 - [94. Binary Tree Inorder Traversal - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/94.%20Binary%20Tree%20Inorder%20Traversal.md#leetcode-94-binary-tree-inorder-traversal)
 
+- [101. Symmetric Tree - Tree ](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+
 - [102. Binary Tree Level Order Traversal - Tree ](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/102.%20Binary%20Tree%20Level%20Order%20Traversal.md#102-binary-tree-level-order-traversal)
 
 - [104. Maximum Depth of Binary Tree - Tree ](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/104.%20Maximum%20Depth%20of%20Binary%20Tree.md#104-maximum-depth-of-binary-tree)
@@ -39,6 +41,8 @@
 - [206. Reverse the LinkedList - Recursion](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/203.%20Remove%20Linked%20List%20Elements.md#203-remove-linked-list-elements)
 
 - [217. Contains Duplication - Dictionary](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/217.%20Contains%20Duplicate.md#leetcode-217-contains-duplication)
+
+- [226. Invert Binary Tree - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
 
 - [232. Implement Queue - Stack](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/232.%20Implement%20Queue%20using%20Stacks.md#leetcode-232-implement-queue-using-stacks)
 
