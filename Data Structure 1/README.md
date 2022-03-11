@@ -56,3 +56,5 @@
 
 - [566. Reshape Matrix -Array](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/566.%20Reshape%20Matrix.md#leetcode-566-reshape-matrix)
 
+- [700. Search in a Binary Search Tree - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201)
+
