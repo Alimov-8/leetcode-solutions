@@ -20,6 +20,8 @@
 
 - [94. Binary Tree Inorder Traversal - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/94.%20Binary%20Tree%20Inorder%20Traversal.md#leetcode-94-binary-tree-inorder-traversal)
 
+- [98. Validate Binary Search Tree - Tree ](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+
 - [101. Symmetric Tree - Tree ](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
 
 - [102. Binary Tree Level Order Traversal - Tree ](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/102.%20Binary%20Tree%20Level%20Order%20Traversal.md#102-binary-tree-level-order-traversal)
@@ -57,4 +59,6 @@
 - [566. Reshape Matrix -Array](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/566.%20Reshape%20Matrix.md#leetcode-566-reshape-matrix)
 
 - [700. Search in a Binary Search Tree - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201)
+
+- [701. Insert into a Binary Search Tree - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201)
 
