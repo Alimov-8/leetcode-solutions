@@ -20,15 +20,15 @@
 
 - [94. Binary Tree Inorder Traversal - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/94.%20Binary%20Tree%20Inorder%20Traversal.md#leetcode-94-binary-tree-inorder-traversal)
 
-- [98. Validate Binary Search Tree - Tree ](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+- [98. Validate Binary Search Tree - Tree ](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/98.%20Validate%20Binary%20Search%20Tree.md#leetocode-98-validate-binary-search-tree)
 
-- [101. Symmetric Tree - Tree ](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+- [101. Symmetric Tree - Tree ](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/101.%20Symmetric%20Tree.md#leetcode-101-symmetric-tree)
 
 - [102. Binary Tree Level Order Traversal - Tree ](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/102.%20Binary%20Tree%20Level%20Order%20Traversal.md#102-binary-tree-level-order-traversal)
 
 - [104. Maximum Depth of Binary Tree - Tree ](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/104.%20Maximum%20Depth%20of%20Binary%20Tree.md#104-maximum-depth-of-binary-tree)
 
-- [112. Path Sum - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+- [112. Path Sum - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/101.%20Symmetric%20Tree.md#leetcode-101-symmetric-tree)
 
 - [118. Pascal's Triangle - Array](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/118.%20Pascal's%20Triangle.md#leetcode-118-pascals-triangle)
 
@@ -46,7 +46,7 @@
 
 - [217. Contains Duplication - Dictionary](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/217.%20Contains%20Duplicate.md#leetcode-217-contains-duplication)
 
-- [226. Invert Binary Tree - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/)
+- [226. Invert Binary Tree - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/226.%20Invert%20Binary%20Tree.md#leetcode-226-invert-binary-tree)
 
 - [232. Implement Queue - Stack](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/232.%20Implement%20Queue%20using%20Stacks.md#leetcode-232-implement-queue-using-stacks)
 
@@ -58,7 +58,7 @@
 
 - [566. Reshape Matrix -Array](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/566.%20Reshape%20Matrix.md#leetcode-566-reshape-matrix)
 
-- [700. Search in a Binary Search Tree - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201)
+- [700. Search in a Binary Search Tree - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/700.%20Search%20in%20a%20Binary%20Search%20Tree.md#leetocode-700-search-in-a-binary-search-tree)
 
-- [701. Insert into a Binary Search Tree - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201)
+- [701. Insert into a Binary Search Tree - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/701.%20Insert%20into%20a%20Binary%20Search%20Tree.md)
 

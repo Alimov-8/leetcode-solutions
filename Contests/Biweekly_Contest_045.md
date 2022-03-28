@@ -1,5 +1,8 @@
-# Rank 3000/8000, Score 7/17, 2/4 Solved 
+## Rank 3000/8000, Score 7/17, 2/4 Solved 
 
+<br>
+
+```py
 #Question 1   Sum of Unique Elements
 
 class Solution:
@@ -56,3 +59,4 @@ class Solution:
 
             
         return len(s)
+```
