@@ -50,6 +50,8 @@
 
 - [232. Implement Queue - Stack](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/232.%20Implement%20Queue%20using%20Stacks.md#leetcode-232-implement-queue-using-stacks)
 
+- [242. Valid Anagram - String, Hash Table]
+
 - [350. Intersection of Two Arrays II - Dictionary, Loops](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/350.%20Intersection%20of%20Two%20Arrays%20II.md#leetcode-350-intersection-of-two-arrays-ii)
 
 - [383. Ransom Note - HashMap, Counting](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/383.%20Ransom%20Note.md)
