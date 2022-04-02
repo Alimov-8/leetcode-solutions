@@ -1,5 +1,5 @@
 # Leetcode Solutions 💡 
-####  https://leetcode.com/Alimov_8/
+####  https://leetcode.com/Alimov-8/
 
 #### Introduction
 In this repository I would like to share my solutions to leetcode questions with comments 💬
