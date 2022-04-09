@@ -54,9 +54,9 @@
 
 - [232. Implement Queue - Stack](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/232.%20Implement%20Queue%20using%20Stacks.md#leetcode-232-implement-queue-using-stacks)
 
-- [235. Lowest Common Ancestor of a Binary Search Tree - Tree] 
+- [235. Lowest Common Ancestor of a Binary Search Tree - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md#leetocode-235-lowest-common-ancestor-of-a-binary-search-tree)
 
-- [242. Valid Anagram - String, Hash Table]
+- [242. Valid Anagram - String, Hash Table](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/242.%20Valid%20Anagram.md#leetcode-242-valid-anagram)
 
 - [350. Intersection of Two Arrays II - Dictionary, Loops](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/350.%20Intersection%20of%20Two%20Arrays%20II.md#leetcode-350-intersection-of-two-arrays-ii)
 
@@ -66,7 +66,7 @@
 
 - [566. Reshape Matrix -Array](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/566.%20Reshape%20Matrix.md#leetcode-566-reshape-matrix)
 
-- [653. Two Sum IV Input is a BST - Tree]
+- [653. Two Sum IV Input is a BST - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.md#leetocode-653-two-sum-iv---input-is-a-bst)
 
 - [700. Search in a Binary Search Tree - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/700.%20Search%20in%20a%20Binary%20Search%20Tree.md#leetocode-700-search-in-a-binary-search-tree)
 
