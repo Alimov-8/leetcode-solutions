@@ -1,5 +1,9 @@
 # LeetCode Study Plan 📋 | [Data Structures 1](https://leetcode.com/study-plan/data-structure/)
 
+ <img src="sources\ds_badge.jpg"
+     alt=""
+     style="float: left; margin-right: 10px; margin-top: 5px; margin: 10px;" /> 
+
 ## Solutions 
 
 - [1. Two Sum - Brute Force and Dictionary](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/1.%20Two%20Sum.md#leetcode-1-two-sum)
@@ -50,6 +54,8 @@
 
 - [232. Implement Queue - Stack](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/232.%20Implement%20Queue%20using%20Stacks.md#leetcode-232-implement-queue-using-stacks)
 
+- [235. Lowest Common Ancestor of a Binary Search Tree - Tree] 
+
 - [242. Valid Anagram - String, Hash Table]
 
 - [350. Intersection of Two Arrays II - Dictionary, Loops](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/350.%20Intersection%20of%20Two%20Arrays%20II.md#leetcode-350-intersection-of-two-arrays-ii)
@@ -59,6 +65,8 @@
 - [387. First Unique Character in a String](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/387.%20First%20Unique%20Character%20in%20a%20String.md#leetcode-387-first-unique-character-in-a-string)
 
 - [566. Reshape Matrix -Array](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/566.%20Reshape%20Matrix.md#leetcode-566-reshape-matrix)
+
+- [653. Two Sum IV Input is a BST - Tree]
 
 - [700. Search in a Binary Search Tree - Tree](https://github.com/Alimov-8/leetcode-solutions/blob/master/Data%20Structure%201/700.%20Search%20in%20a%20Binary%20Search%20Tree.md#leetocode-700-search-in-a-binary-search-tree)
 
